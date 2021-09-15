@@ -4,4 +4,4 @@ In this project we will use Pandas, Matplotlib, and Seaborn to explore geo-refer
 
 
 
-An interactive version of the project with working table of contents can be viewed here: https://nbviewer.jupyter.org/github/wct432/Wildfire_Exploratory_Analysis/blob/main/wildfire_analysis.ipynb
+An interactive version of the project with a functioning table of contents can be viewed here: https://nbviewer.jupyter.org/github/wct432/Wildfire_Exploratory_Analysis/blob/main/wildfire_analysis.ipynb
